@@ -1,0 +1,4 @@
+﻿2022-07-13 12:34:13.9459 DEBUG Debug successful with sum operation
+2022-07-13 12:34:14.8976 INFO Successfully completed and Sum is:34
+2022-07-13 12:35:50.6395 WARN Input should not be 0 or less than zero
+2022-07-13 12:35:50.7672 ERROR Input should be +ve number
